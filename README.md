@@ -13,3 +13,7 @@ The Sparks Foundation </>
 <li> Use selenium to create a test case to test the website thesparksfoundation.sg </>
 <li> The test script should check of at least 5 pages and 10 elements in total. </>
 <li> Each element could be e.g. if the Logo exists, the navigation bar appears, the name on about us page is correct, etc. </>
+
+
+<h4> IDE used -> IntelliJ IDEA </>
+<h4> Selenium webdriver - Chrome driver </>
