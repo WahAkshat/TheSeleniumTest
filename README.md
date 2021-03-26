@@ -1,7 +1,7 @@
 <h1> TheSeleniumTest - https://www.thesparksfoundationsingapore.org/ </>
 
-<h2> Graduate Rotational Internship Program ||
-The Sparks Foundation </>
+<p><h2> Graduate Rotational Internship Program ||
+The Sparks Foundation </><p/>
 <p> <img src ="images/tsf-logo.jpg/"> </>
 
 <h3> <b>Web & Mobile Development Task #6 <b/> <h3/>
