@@ -16,5 +16,5 @@ The Sparks Foundation </h3></p>
 <li> Each element could be e.g. if the Logo exists, the navigation bar appears, the name on about us page is correct, etc. </> </h5>
 
 
-<h5> IDE used -> IntelliJ IDEA </>
-<h5> Selenium webdriver - Chrome driver </>
+<h4> IDE used -> IntelliJ IDEA </>
+<h4> Selenium webdriver - Chrome driver </>
