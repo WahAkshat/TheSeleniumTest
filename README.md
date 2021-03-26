@@ -17,4 +17,5 @@ The Sparks Foundation </h3></p>
 
 
 <h4> IDE used -> IntelliJ IDEA </>
+<p> <img src ="images/libraries.png/"> </>
 <h4> Selenium webdriver - Chrome driver </>
