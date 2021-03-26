@@ -156,6 +156,6 @@ public class test {
 //        }
 
 
-        w.close();
+        w.close(); // close driver
     }
 }
